@@ -1,0 +1,30 @@
+Season,Age,Squad,Country,Comp,LgRank,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+2002-2003,17,Sporting CP,pt POR,1. Primeira Liga,3rd,12.0,3,,15,,,1.25,,0.20,,,0,0,,,,,,Matches
+2003-2004,18,Manchester Utd,eng ENG,1. Premier League,3rd,17.2,4,,21,,,1.22,,0.19,,,0,0,,,,,,Matches
+2004-2005,19,Manchester Utd,eng ENG,1. Premier League,3rd,26.9,5,,59,,,2.19,,0.08,,,0,0,,,,,,Matches
+2005-2006,20,Manchester Utd,eng ENG,1. Premier League,2nd,25.4,9,,47,,,1.85,,0.19,,,0,0,,,,,,Matches
+2006-2007,21,Manchester Utd,eng ENG,1. Premier League,1st,31.0,17,,71,,,2.29,,0.20,,,3,4,,,,,,Matches
+2007-2008,22,Manchester Utd,eng ENG,1. Premier League,1st,30.5,31,,89,,,2.92,,0.30,,,4,5,,,,,,Matches
+2008-2009,23,Manchester Utd,eng ENG,1. Premier League,1st,30.5,18,,66,,,2.17,,0.21,,,4,4,,,,,,Matches
+2009-2010,24,Real Madrid,es ESP,1. La Liga,2nd,27.3,26,,92,,,3.36,,0.24,,,4,5,,,,,,Matches
+2010-2011,25,Real Madrid,es ESP,1. La Liga,2nd,32.4,40,,101,,,3.12,,0.32,,,8,8,,,,,,Matches
+2011-2012,26,Real Madrid,es ESP,1. La Liga,1st,37.2,46,,113,,,3.04,,0.30,,,12,13,,,,,,Matches
+2012-2013,27,Real Madrid,es ESP,1. La Liga,2nd,30.2,34,,112,,,3.71,,0.25,,,6,7,,,,,,Matches
+2013-2014,28,Real Madrid,es ESP,1. La Liga,3rd,28.2,31,,103,,,3.66,,0.24,,,6,6,,,,,,Matches
+2014-2015,29,Real Madrid,es ESP,1. La Liga,2nd,34.4,48,,106,,,3.08,,0.36,,,10,12,,,,,,Matches
+2015-2016,30,Real Madrid,es ESP,1. La Liga,2nd,35.4,35,227,98,43.2,6.42,2.77,0.13,0.30,,,6,9,,,,,,Matches
+2016-2017,31,Real Madrid,es ESP,1. La Liga,1st,28.2,25,162,61,37.7,5.74,2.16,0.12,0.31,,,6,8,,,,,,Matches
+2017-2018,32,Real Madrid,es ESP,1. La Liga,3rd,25.4,26,174,72,41.4,6.85,2.84,0.13,0.32,15.7,15,3,4,25.2,22.0,0.13,+0.8,+1.0,Matches
+2018-2019,33,Juventus,it ITA,1. Serie A,1st,29.9,21,171,62,36.3,5.73,2.08,0.09,0.26,18.6,16,5,6,22.2,17.5,0.10,-1.2,-1.5,Matches
+2019-2020,34,Juventus,it ITA,1. Serie A,1st,32.4,31,195,67,34.4,6.02,2.07,0.10,0.28,19.5,19,12,13,28.6,18.4,0.09,+2.4,+0.6,Matches
+2020-2021,35,Juventus,it ITA,1. Serie A,4th,31.1,29,160,61,38.1,5.14,1.96,0.14,0.38,18.5,17,6,8,27.7,21.4,0.13,+1.3,+1.6,Matches
+2021-2022,36,Juventus,it ITA,1. Serie A,4th,0.3,0,1,0,0.0,2.90,0.00,0.00,,11.1,0,0,0,0.2,0.2,0.15,-0.2,-0.2,Matches
+2021-2022,36,Manchester Utd,eng ENG,1. Premier League,6th,27.3,18,107,39,36.4,3.92,1.43,0.14,0.38,15.5,8,3,3,17.7,15.4,0.15,+0.3,-0.4,Matches
+2022-2023,37,Manchester Utd,eng ENG,1. Premier League,3rd,5.8,1,25,6,24.0,4.29,1.03,0.04,0.17,17.7,1,0,0,1.9,1.9,0.08,-0.9,-0.9,Matches
+2022-2023,37,Al-Nassr,sa KSA,1. Pro League,2nd,10.0,11,47,21,44.7,4.70,2.10,0.15,0.33,,,4,4,,,,,,Matches
+21 Seasons,21 Seasons,5 Clubs,,5 Leagues,,589.1,509,1269,1482,38.4,5.62,2.52,0.12,0.27,17.7,76,102,119,123.4,96.6,0.12,+2.6,+0.4,
+Real Madrid (9 Seasons),Real Madrid (9 Seasons),Real Madrid (9 Seasons),,1 League,,278.7,311,563,858,41.0,6.33,3.08,0.13,0.29,15.7,15,61,72,25.2,22.0,0.13,+0.8,+1.0,
+Manchester Utd (8 Seasons),Manchester Utd (8 Seasons),Manchester Utd (8 Seasons),,1 League,,194.7,103,132,398,34.1,3.99,2.04,0.12,0.22,15.9,9,14,16,19.6,17.2,0.13,-0.6,-1.2,
+Juventus (4 Seasons),Juventus (4 Seasons),Juventus (4 Seasons),,1 League,,93.8,81,527,190,36.1,5.62,2.03,0.11,0.31,18.9,52,23,27,78.6,57.4,0.11,+2.4,+0.6,
+Sporting CP (1 Season),Sporting CP (1 Season),Sporting CP (1 Season),,1 League,,12.0,3,,15,,,1.25,,0.20,,,0,0,,,,,,
+Al-Nassr (1 Season),Al-Nassr (1 Season),Al-Nassr (1 Season),,1 League,,10.0,11,47,21,44.7,4.70,2.10,0.15,0.33,,,4,4,,,,,,
